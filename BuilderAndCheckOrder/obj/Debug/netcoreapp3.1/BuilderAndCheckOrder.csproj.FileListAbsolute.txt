@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.exe
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.deps.json
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.dll
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\bin\Debug\netcoreapp3.1\BuilderAndCheckOrder.pdb
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.dll
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.pdb
+C:\Users\3zAl7arbi\source\repos\BuilderAndCheckOrder\BuilderAndCheckOrder\obj\Debug\netcoreapp3.1\BuilderAndCheckOrder.genruntimeconfig.cache
